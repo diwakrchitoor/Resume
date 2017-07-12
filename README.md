@@ -1,6 +1,6 @@
 ### Diwakar Chitoor | Seattle, WA | 203-414-5563 | diwakardmn@gmail.com
 #### LinkedIn: https://www.linkedin.com/in/diwakarchitoor
-#### Git: https://diwakrchitoor.github.io/Resume/
+#### GitHub: https://diwakrchitoor.github.io/Resume/
 
 
 ### SUMMARY
@@ -22,7 +22,7 @@
 - __Programming__: Python, Perl, Shell, Ruby, AWS CLI
 - __Monitoring Tools__: Patrol, JMeter, Jrockit, Wily Introscope and Extra-Hop.
 - __J2EE Platforms__: WebLogic, Apache, Tomcat, JBoss, WebSphere.
-- __Version Control Systems__:  Subversion, Git
+- __Version Control Systems__:  Subversion, GitHub
 - __Cloud__: Amazon Web Services.
 - __Virtualization__: VMware, KVM.
 - __Load Balancers__:  BIG IP F5, Cisco Ace.
@@ -55,7 +55,7 @@
 
 ### Sr.Middleware Engineer, Master Card – St Louis, MO (2014 -15)
 -	Created JSON templates for cloud formation and ruby scripts for Chef Automation and contributing to repository on Git/SVN.
--	Utilized Bash/Shell Command line to Procure SSL Certificates and repo to Git Version Control to handle Authentications for Both Web and Application Servers.
+-	Utilized Bash/Shell Command line to Procure SSL Certificates and repo to GitHub Version Control to handle Authentications for Both Web and Application Servers.
 -	Key job duties Includes encompass managing project budgets, ensure project timelines, and communication to end users (customers) to safeguard requirements. 
 -	Configured Software load balancers for creating VIP’s health checks and server farms at both LB level and Web Server level including creating Context Rules and setting up health Check Monitors for High Availability Scenarios.
 -	Installed Reporting Servers like Web Focus 7.x/8.x. Worked on migration and import exporting of scripts from Web Focus 7.7 to 8.0

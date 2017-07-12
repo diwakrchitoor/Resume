@@ -1,37 +1,37 @@
 # Resume
 
-Diwakar Chitoor | Seattle, WA | 203-414-5563 | diwakardmn@gmail.com
-LinkedIn: https://www.linkedin.com/in/diwakarchitoor
-Git: https://github.com/diwakrchitoor/test/blob/master/Devops_Engineer.docx
+### Diwakar Chitoor | Seattle, WA | 203-414-5563 | diwakardmn@gmail.com
+## LinkedIn: https://www.linkedin.com/in/diwakarchitoor
+## Git: https://github.com/diwakrchitoor/test/blob/master/Devops_Engineer.docx
 
 
 
-SUMMARY
+# SUMMARY
 
-	8+ years of experience as System Administrator, AWS Cloud and Dev-Ops Engineer. 
-	Deployed Extrahop Monitoring tool on AWS to identify workloads needed to migrate to AWS and then optimize the performance and availability of Dependent Infrastructure Services. 
-	Hands on experience with an in-depth level of understanding in the strategy and practical implementation of AWS Cloud services including EC2, VPC, IAM, SNS, SQS, RDS, Cloud Formation, Elastic Load Balancing, Auto scaling, S3, Route53, security groups and  Cloud monitoring using Extra Hop.
-	Configured Ansible for scaling EC2 web servers from Route 53 Load balancer in AWS.
-	Experienced with the installation and configuration on Web/Application servers – WebLogic, Tomcat, and Apache.
-	Reduced applications migration issues by optimizing and iron-out inefficient processes.
-	Configured out-of-the-box monitoring and log indexing tools like Extra hop and Splunk.
-	Pushed all configuration management using Chef and puppet to allow for rapid roll-out of new infrastructure.
+-	8+ years of experience as System Administrator, AWS Cloud and Dev-Ops Engineer. 
+-	Deployed Extrahop Monitoring tool on AWS to identify workloads needed to migrate to AWS and then optimize the performance and availability of Dependent Infrastructure Services. 
+-	Hands on experience with an in-depth level of understanding in the strategy and practical implementation of AWS Cloud services including EC2, VPC, IAM, SNS, SQS, RDS, Cloud Formation, Elastic Load Balancing, Auto scaling, S3, Route53, security groups and  Cloud monitoring using Extra Hop.
+-	Configured Ansible for scaling EC2 web servers from Route 53 Load balancer in AWS.
+-	Experienced with the installation and configuration on Web/Application servers – WebLogic, Tomcat, and Apache.
+-	Reduced applications migration issues by optimizing and iron-out inefficient processes.
+-	Configured out-of-the-box monitoring and log indexing tools like Extra hop and Splunk.
+-	Pushed all configuration management using Chef and puppet to allow for rapid roll-out of new infrastructure.
 
-SKILL SET
+# SKILL SET
 
-Operating Systems: Linux, Solaris and Windows.
-Programming: Python, Perl, Shell, Ruby, AWS CLI
-Monitoring Tools: Patrol, JMeter, Jrockit, Wily Introscope and Extra-Hop.
-J2EE Platforms: WebLogic, Apache, Tomcat, JBoss, WebSphere.
-Version Control Systems:  Subversion, Git
-Cloud: Amazon Web Services.
-Virtualization: VMware, KVM.
-Load Balancers:  BIG IP F5, Cisco Ace.
-Caching/Messaging: Hazel-Cast, Coherence. 
-Automation/Build Tools: Jenkins, Docker, Chef, Puppet
+- Operating Systems: Linux, Solaris and Windows.
+- Programming: Python, Perl, Shell, Ruby, AWS CLI
+- Monitoring Tools: Patrol, JMeter, Jrockit, Wily Introscope and Extra-Hop.
+- J2EE Platforms: WebLogic, Apache, Tomcat, JBoss, WebSphere.
+- Version Control Systems:  Subversion, Git
+- Cloud: Amazon Web Services.
+- Virtualization: VMware, KVM.
+- Load Balancers:  BIG IP F5, Cisco Ace.
+- Caching/Messaging: Hazel-Cast, Coherence. 
+- Automation/Build Tools: Jenkins, Docker, Chef, Puppet
 
 
-WORK EXPERIENCE:
+### WORK EXPERIENCE:
 Ericsson, Bellevue, WA                                                                                                08/2016 – Till Date
 Application Performance Engineer
 •	Deployed Extra hop Command Appliance on AWS to identify workloads to migrate to AWS and to optimize the performance of all Dependent Infrastructure Services.

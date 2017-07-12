@@ -1,8 +1,6 @@
-###  Resume
-
 ### Diwakar Chitoor | Seattle, WA | 203-414-5563 | diwakardmn@gmail.com
 #### LinkedIn: https://www.linkedin.com/in/diwakarchitoor
-## Git: https://diwakrchitoor.github.io/Resume/
+#### Git: https://diwakrchitoor.github.io/Resume/
 
 
 ### SUMMARY

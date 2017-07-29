@@ -1,6 +1,5 @@
 ### Diwakar Chitoor | Seattle, WA | 203-414-5563 | diwakardmn@gmail.com
 #### LinkedIn: https://www.linkedin.com/in/diwakarchitoor
-#### GitHub: https://diwakrchitoor.github.io/Resume/
 
 
 ### SUMMARY
@@ -10,7 +9,7 @@
 -	Hands on experience with an in-depth level of understanding in the strategy and practical implementation of AWS Cloud services including EC2, VPC, IAM, SNS, SQS, RDS, Cloud Formation, Elastic Load Balancing, Auto scaling, S3, Route53, security groups and  Cloud monitoring using Extra Hop.
 -	Configured Ansible for scaling EC2 web servers from Route 53 Load balancer in AWS.
 -	Experienced with the installation and configuration on Web/Application servers – WebLogic, Tomcat, and Apache.
--	Configured out-of-the-box monitoring and log indexing tools like Extra hop and Splunk.
+- Experience in design and implementation of Continuous Integration (CI), Continuous Deployment (CD), and Continuous Delivery of Agile   Projects using Subversion (SVN), Git, Jenkins, and Chef.
 -	Pushed all configuration management using Chef and puppet to allow for rapid roll-out of new infrastructure.
 -	Achieved Continuous Delivery of Critical Applications by Using Blue-Green Deployment.
 -	Reduced applications migration issues by optimizing and iron-out inefficient processes.

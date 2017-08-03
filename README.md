@@ -19,11 +19,10 @@
 
 - __Operating  System__: Linux, Solaris and Windows.
 - __Programming__: Python, Perl, Shell, Ruby, AWS CLI
-- __Monitoring Tools__: Patrol, JMeter, Jrockit, Wily Introscope and Extra-Hop.
+- __Monitoring Tools__: Patrol, JMeter, Jrockit, Introscope and Extra-Hop.
 - __J2EE Platforms__: WebLogic, Apache, Tomcat, JBoss, WebSphere.
 - __Version Control Systems__:  Subversion, GitHub
 - __Cloud__: Amazon Web Services.
-- __Virtualization__: VMware, KVM.
 - __Load Balancers__:  BIG IP F5, Cisco Ace.
 - __Caching/Messaging__: Hazel-Cast, Coherence. 
 - __Automation/Build Tools__: Jenkins, Repliweb
@@ -31,6 +30,7 @@
 
 
 ### WORK EXPERIENCE:
+
 ## Application Performance Engineer, Ericsson, Bellevue, WA (08/2016 – Till Date)
 -	Deployed Extra hop Command Appliance on AWS to identify workloads to migrate to AWS and to optimize the performance of all Dependent Infrastructure Services.
 -	Tracked the efficiency of all AWS services and provide application owners with performance-based SLAs. Ensure that AWS resources are being used sensibly to cut expenses.

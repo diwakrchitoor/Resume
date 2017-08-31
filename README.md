@@ -31,15 +31,24 @@
 
 ### WORK EXPERIENCE:
 
-## Application Performance Engineer, Ericsson, Bellevue, WA (08/2016 – Till Date)
--	Deployed Extra hop Command Appliance on AWS to identify workloads to migrate to AWS and to optimize the performance of all Dependent Infrastructure Services.
--	Tracked the efficiency of all AWS services and provide application owners with performance-based SLAs. Ensure that AWS resources are being used sensibly to cut expenses.
--	Managed Multiple AWS instances, assigned security groups and configured load balancing using Elastic Load Balancer and backed out Images to AMI’s for Adding additional Instances.
--	Enabled Auto scaling of the instances so as to design cost effective, fault tolerant and highly reliable systems. 
--	Support Service Level Agreements (SLAs) for Applications Engineering group and implement necessary processes and procedures to ensure SLAs are met.
--	Involved in defect tracking, reporting and coordination with various groups from initial finding of defects to 
--	Conduct system performance and load testing with Jmeter to analyze test results and suggest action plans.
--	Implemented triggers in Extrahop using Java Script for Capturing Custom metrics such as Http Status codes and assigning it to network devices.
+## Application Performance Engineer/AWS Cloud Engineer, Ericsson, Bellevue, WA (08/2016 – Till Date)
+
+- Deployed Extra Hop Monitoring tool on AWS to identify workloads to migrate to AWS and to optimize the performance of all Dependent Infrastructure Services.
+- Responsible for automating deployments, configuration management and capacity management of applications using CI/CD Tools. Build out operational capabilities to support secure, scalable, Fault-tolerant and cloud based web architecture.
+- Created customized AMIs based on already existing AWS EC2 instances by using create image functionality, hence using this snapshot for disaster recovery. 
+- Managed users and groups using the Amazon Identity and Access Management (IAM) using MFA multi factor authentication to secure AWS accounts.
+- Build and configured a virtual data center in the Amazon Web Services cloud to support Enterprise Data Warehouse hosting including Virtual Private Cloud (VPC), Public and Private Subnets, Security Groups, Route Tables, Elastic Load Balancer.
+- Setup VPC’s and subnets using Cloud Formation templates for various applications and Configured Elastic Load Balancer (ELB) for routing traffic. Tracked the efficiency of all AWS services and provide application owners with performance-based SLAs. 
+- Setup auto scaling groups based on memory and CPU to adapt to unforeseen spikes without having an outage or needing manual intervention.
+- Aligned AWS Trusted Advisor recommendations for optimizing cost, improving systems performance, and closing security gaps. 
+- Implemented Life Cycle Policies in Amazon S3 to backup data periodically to save snapshots of data and at same time reducing Costs for Least Used Data.
+- Used AWS command line ( CLI) client and management console to interact with Dependent resources and APIs
+- Integrated GIT into Jenkins to automate the code check-out process
+- Created Chef Cookbooks to provision Apache Web servers, Tomcat servers.
+- Managed Multiple AWS instances, assigned security groups and configured load balancing using Elastic Load Balancer and backed out Images to AMI’s for Adding additional Instances.
+- Support Service Level Agreements (SLAs) for Applications Engineering group and implement necessary processes and procedures to ensure SLAs are met.
+- Implemented triggers in Extra hop using Java Script for Capturing Custom metrics such as Http Status codes and assigning it to network devices.
+
 
 ### Infrastructure Engineer, Apple – Sunnyvale, CA, (2015 -16)
 -	Installed, secured, and configured AWS cloud servers for Application Servers using EC2, S3, VPC and R53.

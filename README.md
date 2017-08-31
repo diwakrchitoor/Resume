@@ -51,15 +51,24 @@
 
 
 ### Infrastructure Engineer, Apple – Sunnyvale, CA, (2015 -16)
--	Installed, secured, and configured AWS cloud servers for Application Servers using EC2, S3, VPC and R53.
+-Installed, secured, and configured AWS cloud servers for migration of Application Servers from Virtual Servers to AWS Cloud using EC2, VPC, IAM, SNS, SQS, RDS, Cloud Formation, Elastic Load Balancing, Auto Scaling, S3, and Route53.
+-	Responsible for building out and improving the reliability and performance of cloud applications and cloud infrastructure deployed on Amazon Web Services. 
+-	Created and monitored alarms, notifications for EC2 instances, and Billing Notifications using Cloud Watch and SNS.
+-	Configured and managed AWS Glacier to move old data to archives, based on the retention policy of applications logs. 
+-	Worked with Application teams to create a collaborative IT operations model based on Agile and DevOps methodologies and wrote code to support automated IT operations in various scripting languages.
+-	Responsible for ensuring Continuous Delivery/Continuous Integration across all environments from UAT/TEST to Pre-Production and Production using Jenkins.
+-	Experienced in automating deployment using Bash, Ruby, Perl and Python scripting.
+-	Created Chef Cookbooks to provision Apache Web servers, Tomcat, WebLogic Servers.
+-	Experience with analysis of logs and performing root cause analysis for various issues coming up on daily basis. 
+-	 Monitored Live Traffic, logs, Memory utilization, Disk utilization and various other factors, which are important for deployment.  
+-	Develop Cloud Formation scripts to automate EC2 instances. Configure user's credentials and profiles using AWS IAM.  
 -	Conceptualized and led the program for conversion of VMware’s VM to KVM for the entire Apple Customer Systems platform. 
 -	Installed and maintained Jenkins for Continuous Delivery as well as automate Ansible Playbook runs against production infrastructure.
--	Migrated Middleware Applications from Data Centers to AWS which involved co-ordination between Various Infrastructure Teams to build a high-available, robust and scalable infrastructure systems.
--	Managed applications on a public EC2 instance under a public subnet with internet gateway and communicated with private application under a private subnet by a dedicated VPC, and also configured NAT and Route Tables. 
--	Utilize AWS CLI to automate backups of S3 buckets, EBS and create nightly AMIs for general environment set up. 
--	Involved in Puppet modules to automate deployment, configuration, and lifecycle management of key clusters
--	Develop new non-production and production environments in Amazon Web Services. 
--	Automate build and deployment using Jenkins. Responsible for troubleshooting java applications and monitoring using splunk.
+-	Migrated Middleware Applications from Data Centers to AWS which involved orchestration between Various Infrastructure Teams to build a high-available, robust and scalable infrastructure systems.
+-	Managed applications on a public EC2 instance under a public subnet with internet gateway and communicated with a private application under a private subnet by a dedicated VPC, configured NAT and Route Tables. 
+-	Involved in Puppet modules to automate deployment, configuration, and lifecycle management of key clusters.
+-	Responsible for troubleshooting Java applications and monitoring using Splunk.
+
 
 ### Sr.Middleware Engineer, Master Card – St Louis, MO (2014 -15)
 -	Created JSON templates for cloud formation and ruby scripts for Chef Automation and contributing to repository on Git/SVN.

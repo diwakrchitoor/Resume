@@ -4,7 +4,7 @@
 
 ### SUMMARY
 
--	8+ years of experience as System Administrator, AWS Cloud and Dev-Ops Engineer. 
+-	9+ years of experience as System Administrator, AWS Cloud and Dev-Ops Engineer. 
 -	Deployed Extrahop Monitoring tool on AWS to identify workloads needed to migrate to AWS and then optimize the performance and availability of Dependent Infrastructure Services. 
 -	Hands on experience with an in-depth level of understanding in the strategy and practical implementation of AWS Cloud services including EC2, VPC, IAM, SNS, SQS, RDS, Cloud Formation, Elastic Load Balancing, Auto scaling, S3, Route53, security groups and  Cloud monitoring using Extra Hop.
 -	Configured Ansible for scaling EC2 web servers from Route 53 Load balancer in AWS.
@@ -107,7 +107,7 @@
 -	 Involved in trouble shooting and fixing day-to-day problems of the applications in production, production-Fix and testing environment.  
 
 
-### Weblogic Administrator, State Street Corporation – Boston,MA  (2009-10)
+### Weblogic Administrator, State Street Corporation – Boston,MA  (2008-10)
 
 -	Provided active support for Load/Stress Testing, troubleshooting and performance tuning.
 -	Configure and installed Tomcat, Jboss and WebLogic application servers.
@@ -121,4 +121,4 @@
 - Bachelors in Mechanical Engineering, 2002 – 2006
 
 ###  University OF Bridgeport, Connecticut, U.S.
-- Masters in Mechanical Engineering, 2007-2009
+- Masters in Mechanical Engineering, 2007-2008

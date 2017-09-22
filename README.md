@@ -4,16 +4,20 @@
 
 ### SUMMARY
 
--	9+ years of experience as System Administrator, AWS Cloud and Dev-Ops Engineer. 
--	Deployed Extrahop Monitoring tool on AWS to identify workloads needed to migrate to AWS and then optimize the performance and availability of Dependent Infrastructure Services. 
--	Hands on experience with an in-depth level of understanding in the strategy and practical implementation of AWS Cloud services including EC2, VPC, IAM, SNS, SQS, RDS, Cloud Formation, Elastic Load Balancing, Auto scaling, S3, Route53, security groups and  Cloud monitoring using Extra Hop.
--	Configured Ansible for scaling EC2 web servers from Route 53 Load balancer in AWS.
--	Experienced with the installation and configuration on Web/Application servers – WebLogic, Tomcat, and Apache.
-- Experience in design and implementation of Continuous Integration (CI), Continuous Deployment (CD), and Continuous Delivery of Agile   Projects using Subversion (SVN), Git, Jenkins, and Chef.
+-	9+ years of experience in multiple disciplines including Middleware Administrator, AWS, and Dev-Ops Engineer. 
+-	Migrated Applications from VM to AWS using AWS SMS, DMS, Direct-Connect, and Snow ball.
+-	Installed, secured, and configured AWS cloud servers using EC2, VPC, IAM, SNS, SQS, RDS, Cloud Formation, Elastic Load Balancing, Auto Scaling, S3, Lambda, and Route53.
+-	Deployed Extra hop Monitoring tool on AWS to identify workloads needed to migrate to AWS and then optimize the performance and availability of Dependent Infrastructure Services. 
+-	Implemented and integrated Docker with ECS to achieve Continuous Integration and Deployment framework using aws-ECS-cli and Jenkins.
+-	Migrated Applications from VMware to AWS using AWS SMS, DMS, and Snowball.
+-	Hands on knowledge in various configuration and automation management tools such as Chef, Ansible, and Puppet.
+-	Administer Web and Application servers including WebLogic, Tomcat, and Apache.
+-	Implemented CI, CD and Continuous Deployment of Agile Projects using Git, Jenkins, and Dockers.
+-	Experience in branching, tagging, releasing and maintaining the version's across the environments using version control systems like GIT and Subversion (SVN).
+-	Complete understanding of Software Development Life Cycle with Agile Methodologies.
 -	Pushed all configuration management using Chef and puppet to allow for rapid roll-out of new infrastructure.
 -	Achieved Continuous Delivery of Critical Applications by Using Blue-Green Deployment.
--	Reduced applications migration issues by optimizing and iron-out inefficient processes.
--	Managed a cross-functional global team of 10 members to create project plans, milestones, execute datacenter migration, and risk mitigation issues for Apple’s Customer Systems group as a part of Apple NPI initiative program.
+
 
 ### SKILL SET
 
